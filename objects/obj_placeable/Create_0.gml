@@ -1,0 +1,2 @@
+placed = true; 
+equipped = false; 

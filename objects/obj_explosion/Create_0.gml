@@ -1,0 +1,2 @@
+decayTimer = 10; 
+
